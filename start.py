@@ -5,3 +5,5 @@ else:
     print('odd',input)
 def palin(input):
     return input[::-1]==input
+def square(input):
+    return input**2
